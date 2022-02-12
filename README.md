@@ -1,1 +1,1 @@
-# Covie-Tracker
+#Covid Tracker
