@@ -1,1 +1,1 @@
-# Corona-virus-Tracking-Application
+# Covie-Tracker
