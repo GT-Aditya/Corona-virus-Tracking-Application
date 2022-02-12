@@ -27,7 +27,7 @@ public class HomeController {
         model.addAttribute("totalCases", totalCases);
         model.addAttribute("totalNewCases", totalNewCases);
 
-        return "home";
+        return "index";
     }
     
 }
